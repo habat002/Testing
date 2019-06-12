@@ -1,0 +1,7 @@
+public class GoodTest {
+
+	public void subtract() {
+		int a=3;
+		int b=3;
+		System.out.println("Subtraction result: "+(a-b)); 
+	}
